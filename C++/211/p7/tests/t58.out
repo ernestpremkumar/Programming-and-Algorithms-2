@@ -1,0 +1,866 @@
+2
+{}
+<2> is not in tree.
+{0}
+{0}
+{0}
+1
+Average distance of nodes to root = 0
+{0}
+Average distance of nodes to root = 0
+{0}
+{0}
+{0}
+<3> is not in tree.
+Average distance of nodes to root = 0
+Average distance of nodes to root = 0
+{0}
+{0}
+{0}
+0
+2
+{0, 4}
+Average distance of nodes to root = 0.5
+<1> is not in tree.
+2
+<0> is in tree.
+<6> is not in tree.
+2
+6
+<7> is not in tree.
+7
+{0, 4}
+Tree is balanced.
+Tree is balanced.
+2
+2
+1
+{0, 4, 6}
+{0, 4, 6}
+Tree is not balanced.
+Average distance of nodes to root = 1
+<0> is in tree.
+Tree is not balanced.
+Average distance of nodes to root = 1
+Average distance of nodes to root = 1
+{0, 4, 6}
+3
+{0, 4, 6}
+{0, 4, 6}
+<0> is in tree.
+<3> is not in tree.
+{0, 4, 6}
+Tree is not balanced.
+6
+Average distance of nodes to root = 1
+{0, 4, 6}
+<5> is not in tree.
+{0, 4, 6}
+1
+Average distance of nodes to root = 1
+Average distance of nodes to root = 1
+Average distance of nodes to root = 1
+{0, 4, 6}
+3
+{0, 4, 6}
+<5> is not in tree.
+{0, 4, 6}
+2
+<2> is not in tree.
+Average distance of nodes to root = 1.5
+{0, 4, 6, 5}
+{0, 4, 6, 5}
+4
+{0, 4, 5, 6}
+Tree is not balanced.
+{0, 4, 6, 5}
+Average distance of nodes to root = 1.5
+Tree is not balanced.
+Average distance of nodes to root = 1.5
+Average distance of nodes to root = 1.5
+{0, 4, 6, 5}
+{0, 4, 5, 6}
+5
+{0, 4, 5, 6}
+Average distance of nodes to root = 1.5
+1
+<3> is not in tree.
+2
+<7> is not in tree.
+4
+{0, 4, 5, 6}
+Tree is not balanced.
+{0, 3, 4, 5, 6}
+5
+5
+5
+0
+<1> is not in tree.
+<3> is in tree.
+<3> is in tree.
+5
+Tree is not balanced.
+{0, 4, 3, 6, 5}
+5
+7
+Tree is not balanced.
+Average distance of nodes to root = 1.6
+Average distance of nodes to root = 1.6
+0
+<0> is in tree.
+Tree is not balanced.
+<4> is in tree.
+{0, 4, 3, 6, 5}
+5
+5
+Tree is not balanced.
+5
+{0, 3, 4, 5, 6}
+0
+Tree is not balanced.
+0
+5
+Average distance of nodes to root = 1.6
+{0, 1, 3, 4, 5, 6}
+{0, 4, 3, 6, 1, 5}
+Tree is not balanced.
+Tree is not balanced.
+<1> is in tree.
+Tree is not balanced.
+Average distance of nodes to root = 1.83333
+7
+Average distance of nodes to root = 2.14286
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6}
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 2}
+{0, 4, 3, 6, 1, 5, 2}
+Tree is not balanced.
+Average distance of nodes to root = 2.14286
+Average distance of nodes to root = 2.14286
+{0, 1, 2, 3, 4, 5, 6}
+Average distance of nodes to root = 2.14286
+Tree is not balanced.
+Tree is not balanced.
+0
+{0, 4, 3, 6, 1, 5, 2}
+Average distance of nodes to root = 2.14286
+{0, 4, 3, 6, 1, 5, 2}
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 2}
+Tree is not balanced.
+7
+{0, 1, 2, 3, 4, 5, 6}
+{0, 1, 2, 3, 4, 5, 6}
+<0> is in tree.
+4
+{0, 4, 3, 6, 1, 5, 2}
+7
+{0, 4, 3, 6, 1, 5, 2}
+7
+<4> is in tree.
+4
+{0, 1, 2, 3, 4, 5, 6}
+7
+{0, 1, 2, 3, 4, 5, 6}
+{0, 4, 3, 6, 1, 5, 2}
+7
+Average distance of nodes to root = 2.14286
+{0, 4, 3, 6, 1, 5, 2}
+6
+3
+Average distance of nodes to root = 2.14286
+{0, 1, 2, 3, 4, 5, 6}
+3
+Tree is not balanced.
+7
+1
+{0, 1, 2, 3, 4, 5, 6}
+<6> is in tree.
+{0, 4, 3, 6, 1, 5, 2}
+7
+7
+{0, 1, 2, 3, 4, 5, 6}
+Tree is not balanced.
+7
+7
+0
+<4> is in tree.
+1
+{0, 4, 3, 6, 1, 5, 2}
+{0, 1, 2, 3, 4, 5, 6}
+{0, 1, 2, 3, 4, 5, 6}
+7
+Average distance of nodes to root = 2.14286
+7
+Average distance of nodes to root = 2.14286
+<5> is in tree.
+{0, 4, 3, 6, 1, 5, 2}
+0
+{0, 4, 3, 6, 1, 5, 2}
+<2> is in tree.
+<5> is in tree.
+{0, 4, 3, 6, 1, 5, 2}
+{0, 1, 2, 3, 4, 5, 6}
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 2}
+Average distance of nodes to root = 2.14286
+4
+0
+{0, 4, 3, 6, 1, 5, 2}
+Tree is not balanced.
+<3> is in tree.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 2}
+Tree is not balanced.
+<6> is in tree.
+4
+Average distance of nodes to root = 2.14286
+7
+{0, 1, 2, 3, 4, 5, 6}
+Tree is not balanced.
+<2> is in tree.
+<7> is not in tree.
+Average distance of nodes to root = 2.14286
+Tree is not balanced.
+<5> is in tree.
+{0, 1, 2, 3, 4, 5, 6}
+<3> is in tree.
+Average distance of nodes to root = 2.14286
+7
+Tree is not balanced.
+<7> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+<7> is in tree.
+8
+<6> is in tree.
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+<1> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+6
+Tree is not balanced.
+Tree is not balanced.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+4
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+<5> is in tree.
+Tree is not balanced.
+Tree is not balanced.
+8
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+Tree is not balanced.
+3
+Average distance of nodes to root = 2.25
+<5> is in tree.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+<1> is in tree.
+Tree is not balanced.
+<5> is in tree.
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+<1> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+<5> is in tree.
+<0> is in tree.
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+8
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+2
+Tree is not balanced.
+8
+Average distance of nodes to root = 2.25
+8
+0
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+8
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+8
+<4> is in tree.
+7
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+0
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+Tree is not balanced.
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+<0> is in tree.
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+<4> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+5
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+<3> is in tree.
+<7> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+2
+{0, 1, 2, 3, 4, 5, 6, 7}
+1
+1
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+7
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+0
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+<6> is in tree.
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+7
+4
+<7> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+<0> is in tree.
+7
+<3> is in tree.
+7
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Tree is not balanced.
+<6> is in tree.
+Average distance of nodes to root = 2.25
+8
+<6> is in tree.
+Average distance of nodes to root = 2.25
+7
+Tree is not balanced.
+<3> is in tree.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+6
+5
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+<6> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+Tree is not balanced.
+<5> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+<4> is in tree.
+<3> is in tree.
+3
+6
+<1> is in tree.
+Tree is not balanced.
+<7> is in tree.
+3
+<0> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+7
+<7> is in tree.
+<7> is in tree.
+<7> is in tree.
+8
+8
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+<1> is in tree.
+Tree is not balanced.
+1
+<3> is in tree.
+5
+8
+0
+8
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+0
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+8
+8
+<3> is in tree.
+<5> is in tree.
+Average distance of nodes to root = 2.25
+5
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+4
+<2> is in tree.
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+<5> is in tree.
+8
+<3> is in tree.
+<7> is in tree.
+<2> is in tree.
+Average distance of nodes to root = 2.25
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+0
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+8
+5
+0
+8
+8
+<7> is in tree.
+3
+Tree is not balanced.
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+8
+8
+Average distance of nodes to root = 2.25
+<6> is in tree.
+1
+Average distance of nodes to root = 2.25
+<4> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+<4> is in tree.
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+<5> is in tree.
+Tree is not balanced.
+4
+<3> is in tree.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+<2> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+7
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+<1> is in tree.
+<2> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+3
+<5> is in tree.
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+<6> is in tree.
+<5> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+8
+Tree is not balanced.
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+3
+8
+<5> is in tree.
+<5> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+<0> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+1
+1
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+7
+8
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+8
+1
+6
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+8
+8
+2
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+<4> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+<5> is in tree.
+Tree is not balanced.
+5
+<4> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Tree is not balanced.
+8
+<7> is in tree.
+<0> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+<7> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+3
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+7
+2
+Tree is not balanced.
+6
+6
+8
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+4
+7
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+Tree is not balanced.
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+4
+<5> is in tree.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+<4> is in tree.
+<6> is in tree.
+Tree is not balanced.
+5
+Tree is not balanced.
+2
+8
+Tree is not balanced.
+Tree is not balanced.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+3
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+<7> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+<6> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+<7> is in tree.
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+Tree is not balanced.
+Tree is not balanced.
+Tree is not balanced.
+<5> is in tree.
+<0> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+4
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+<4> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+<7> is in tree.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+<4> is in tree.
+2
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+<2> is in tree.
+8
+<1> is in tree.
+2
+Average distance of nodes to root = 2.25
+<3> is in tree.
+8
+<0> is in tree.
+8
+3
+Average distance of nodes to root = 2.25
+<6> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+<5> is in tree.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+Tree is not balanced.
+8
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+<0> is in tree.
+<0> is in tree.
+<3> is in tree.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Tree is not balanced.
+<3> is in tree.
+<2> is in tree.
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+Average distance of nodes to root = 2.25
+Tree is not balanced.
+8
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+<4> is in tree.
+8
+6
+8
+6
+Tree is not balanced.
+8
+<6> is in tree.
+<3> is in tree.
+8
+Tree is not balanced.
+3
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+4
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+5
+8
+8
+Tree is not balanced.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+0
+8
+8
+1
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+<1> is in tree.
+Average distance of nodes to root = 2.25
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+Average distance of nodes to root = 2.25
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+Tree is not balanced.
+8
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+Average distance of nodes to root = 2.25
+4
+Tree is not balanced.
+<5> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+Average distance of nodes to root = 2.25
+<0> is in tree.
+<0> is in tree.
+5
+Average distance of nodes to root = 2.25
+<2> is in tree.
+8
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+4
+<4> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Average distance of nodes to root = 2.25
+<6> is in tree.
+Tree is not balanced.
+{0, 4, 3, 6, 1, 5, 7, 2}
+Average distance of nodes to root = 2.25
+7
+Tree is not balanced.
+3
+{0, 1, 2, 3, 4, 5, 6, 7}
+8
+<4> is in tree.
+3
+Tree is not balanced.
+<0> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+2
+{0, 4, 3, 6, 1, 5, 7, 2}
+{0, 4, 3, 6, 1, 5, 7, 2}
+<1> is in tree.
+<6> is in tree.
+{0, 4, 3, 6, 1, 5, 7, 2}
+8
+Tree is not balanced.
+2
+Tree is not balanced.
+7
+{0, 4, 3, 6, 1, 5, 7, 2}
+1
+2
+Tree is not balanced.
+8
+<2> is in tree.
+Average distance of nodes to root = 2.25
+8
+<7> is in tree.
+4
+Average distance of nodes to root = 2.25
+<0> is in tree.
+Tree is not balanced.
+8
+Average distance of nodes to root = 2.25
+<5> is in tree.
+<1> is in tree.
+Average distance of nodes to root = 2.25
+<0> is in tree.
+{0, 1, 2, 3, 4, 5, 6, 7}
+Tree is not balanced.

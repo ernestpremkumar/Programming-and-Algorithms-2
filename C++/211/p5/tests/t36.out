@@ -1,0 +1,110 @@
+1: Homer entered store
+1: Marge entered store
+1: Lisa entered store
+1: Maggie entered store
+1: Patty entered store
+1: Grampa entered store
+1: Bart entered store
+1: Selma entered store
+1: Smithers entered store
+1: Barney entered store
+1: Burns entered store
+1: Moe entered store
+1: Rod entered store
+1: Maude entered store
+1: Todd entered store
+1: Apu entered store
+1: Wiggum entered store
+1: Hibbert entered store
+1: Ned entered store
+1: Krusty entered store
+1: Sideshow entered store
+1: Scratchy entered store
+1: Otto entered store
+1: Edna entered store
+1: Seymour entered store
+1: Itchy entered store
+1: Willie entered store
+84001: Homer done shopping
+84001: Marge done shopping
+84001: Lisa done shopping
+84001: Maggie done shopping
+84001: Patty done shopping
+84001: Grampa done shopping
+84001: Bart done shopping
+84001: Selma done shopping
+84001: Smithers done shopping
+84001: Barney done shopping
+84001: Burns done shopping
+84001: Moe done shopping
+84001: Rod done shopping
+84001: Maude done shopping
+84001: Todd done shopping
+84001: Apu done shopping
+84001: Wiggum done shopping
+84001: Hibbert done shopping
+84001: Ned done shopping
+84001: Krusty done shopping
+84001: Sideshow done shopping
+84001: Scratchy done shopping
+84001: Otto done shopping
+84001: Edna done shopping
+84001: Seymour done shopping
+84001: Itchy done shopping
+84001: Willie done shopping
+84001: Homer started checkout with checker 0
+126001: Homer paid $126000 for 42000 items to checker 0
+126001: Marge started checkout with checker 0
+168001: Marge paid $126000 for 42000 items to checker 0
+168001: Lisa started checkout with checker 0
+210001: Lisa paid $126000 for 42000 items to checker 0
+210001: Maggie started checkout with checker 0
+252001: Maggie paid $126000 for 42000 items to checker 0
+252001: Patty started checkout with checker 0
+252008: Patty stole $504250 and 42000 items from checker 0
+252008: Grampa started checkout with checker 0
+294008: Grampa paid $126000 for 42000 items to checker 0
+294008: Bart started checkout with checker 0
+294015: Bart stole $126000 and 42000 items from checker 0
+294015: Selma started checkout with checker 0
+336015: Selma paid $126000 for 42000 items to checker 0
+336015: Smithers started checkout with checker 0
+378015: Smithers paid $126000 for 42000 items to checker 0
+378015: Barney started checkout with checker 0
+378022: Barney stole $252000 and 42000 items from checker 0
+378022: Burns started checkout with checker 0
+420022: Burns paid $126000 for 42000 items to checker 0
+420022: Moe started checkout with checker 0
+420029: Moe stole $126000 and 42000 items from checker 0
+420029: Rod started checkout with checker 0
+462029: Rod paid $126000 for 42000 items to checker 0
+462029: Maude started checkout with checker 0
+504029: Maude paid $126000 for 42000 items to checker 0
+504029: Todd started checkout with checker 0
+546029: Todd paid $126000 for 42000 items to checker 0
+546029: Apu started checkout with checker 0
+588029: Apu paid $126000 for 42000 items to checker 0
+588029: Wiggum started checkout with checker 0
+588036: Wiggum stole $504000 and 42000 items from checker 0
+588036: Hibbert started checkout with checker 0
+630036: Hibbert paid $126000 for 42000 items to checker 0
+630036: Ned started checkout with checker 0
+672036: Ned paid $126000 for 42000 items to checker 0
+672036: Krusty started checkout with checker 0
+672043: Krusty stole $252000 and 42000 items from checker 0
+672043: Sideshow started checkout with checker 0
+672050: Sideshow stole $0 and 42000 items from checker 0
+672050: Scratchy started checkout with checker 0
+672057: Scratchy stole $0 and 42000 items from checker 0
+672057: Otto started checkout with checker 0
+714057: Otto paid $126000 for 42000 items to checker 0
+714057: Edna started checkout with checker 0
+756057: Edna paid $126000 for 42000 items to checker 0
+756057: Seymour started checkout with checker 0
+798057: Seymour paid $126000 for 42000 items to checker 0
+798057: Itchy started checkout with checker 0
+798064: Itchy stole $378000 and 42000 items from checker 0
+798064: Willie started checkout with checker 0
+798071: Willie stole $0 and 42000 items from checker 0
+registers[0] = $0
+time = 798072

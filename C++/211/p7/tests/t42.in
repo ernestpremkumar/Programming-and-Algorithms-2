@@ -1,0 +1,2 @@
+echo t01: Average distance of an empty tree should be 0.
+distance
