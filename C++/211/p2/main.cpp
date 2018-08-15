@@ -47,7 +47,9 @@ int main() {
     videos[i]->print();
   }
 
-
+  for(int i=0; i<count; i++) {
+    delete videos[i];
+  }
 
   return 0;
 }
