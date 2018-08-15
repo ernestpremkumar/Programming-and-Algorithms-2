@@ -8,7 +8,9 @@ class List
         List();
         ~List();
         void insert(int value); // insert at beginning of list
+        void insert_at_end(int value); // insert at the end of list
         void print();
+        int sum();
     private:
         class Node
         {
