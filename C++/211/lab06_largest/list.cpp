@@ -1,5 +1,5 @@
 // Fill in the functions at the bottom of this file
-// 
+//
 #include <iostream>
 using namespace std;
 #include "list.h"
@@ -36,13 +36,24 @@ void List::print()
 {
     for (Node *ptr = m_head; ptr; ptr = ptr->m_next)
     {
-        cout << ptr->m_value << endl; 
+        cout << ptr->m_value << endl;
     }
 }
 
 bool List::largest_value(int &largest)
 {
-
-    // put your code here 
-
+  int m_largest;
+  Node *ptr = m_head;
+  if(!ptr) {
+    return false;
+  }
+  m_largest = ptr->m_value;
+  while(ptr) {
+    if(ptr->m_value > m_largest) {
+      m_largest = ptr->m_value;
+    }
+    ptr = ptr->m_next;
+  }
+  largest = m_largest;
+  return true;
 }
