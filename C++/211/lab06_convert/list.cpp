@@ -1,5 +1,5 @@
 // Fill in the functions at the bottom of this file
-// 
+//
 #include <iostream>
 using namespace std;
 #include "list.h"
@@ -38,11 +38,29 @@ void List::print()
 {
     for (Node *ptr = m_head; ptr; ptr = ptr->m_next)
     {
-        cout << ptr->m_value << endl; 
+        cout << ptr->m_value << endl;
     }
 }
 
 int *List::convert_to_array(int &size)
 {
-    // put your code here
+    int m_size=0;
+    Node *ptr = m_head;
+    while(ptr) {
+      m_size++;
+      ptr = ptr->m_next;
+    }
+    size = m_size;
+    if(m_size != 0) {
+      int *m_list = new int[m_size];
+      int index = 0;
+      ptr = m_head;
+      while(ptr) {
+        m_list[index] = ptr->m_value;
+        index++;
+        ptr = ptr->m_next;
+      }
+      return m_list;
+    }
+    return NULL;
 }
