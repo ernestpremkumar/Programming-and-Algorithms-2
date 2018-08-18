@@ -1,5 +1,5 @@
 // Fill in the functions at the bottom of this file
-// 
+//
 #include <iostream>
 using namespace std;
 #include "list.h"
@@ -36,13 +36,27 @@ void List::print()
 {
     for (Node *ptr = m_head; ptr; ptr = ptr->m_next)
     {
-        cout << ptr->m_value << endl; 
+        cout << ptr->m_value << endl;
     }
 }
 
 void List::compare(int target, int &less_than, int &equal, int &greater_than)
 {
-
-    // put your code here 
-
+  int m_less=0, m_equal=0, m_great=0;
+  Node *ptr = m_head;
+  while (ptr) {
+    if(ptr->m_value == target) {
+      m_equal++;
+    }
+    else if(ptr->m_value < target) {
+      m_less++;
+    }
+    else {
+      m_great++;
+    }
+    ptr = ptr->m_next;
+  }
+  less_than = m_less;
+  equal = m_equal;
+  greater_than = m_great;
 }
