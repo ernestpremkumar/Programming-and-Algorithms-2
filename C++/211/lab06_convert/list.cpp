@@ -44,15 +44,15 @@ void List::print()
 
 int *List::convert_to_array(int &size)
 {
-    int m_size=0;
+    // int m_size=0;
     Node *ptr = m_head;
-    while(ptr) {
-      m_size++;
-      ptr = ptr->m_next;
-    }
-    size = m_size;
-    if(m_size != 0) {
-      int *m_list = new int[m_size];
+    // while(ptr) {
+    //   m_size++;
+    //   ptr = ptr->m_next;
+    // }
+    size = m_length;
+    if(m_length != 0) {
+      int *m_list = new int[m_length];
       int index = 0;
       ptr = m_head;
       while(ptr) {
